@@ -55,6 +55,15 @@ This project was built mainly to understand core frontend concepts:
 
 ## 📸 Screenshots
 
+### 🏠 Search Page
+![Search1](./screenshot/Search1.png)
+![Search2](./screenshot/Search2.png)
+![Search3](./screenshot/Search3.png)
+![Search4](./screenshot/Search4.png)
+
+
+### ❤️ My Collection
+![Collection](./screenshot/Collection.png)
 
 
 ---
